@@ -44,6 +44,9 @@ func App() *buffalo.App {
 		app.Use(translations())
 
 		app.GET("/", HomeHandler)
+		app.GET("/work", WorkHandler)
+		app.GET("/about", AboutHandler)
+		app.GET("/contact", AboutHandler)
 		app.GET("/routes", RoutesHandler)
 
 		app.ServeFiles("/", assetsBox) // serve files from the public directory
