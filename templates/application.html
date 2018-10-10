@@ -8,10 +8,12 @@
     <meta name="csrf-param" content="authenticity_token" />
     <meta name="csrf-token" content="<%= authenticity_token %>" />
     <link rel="icon" href="<%= assetPath("images/favicon.ico") %>">
+    <!-- Tachyons -->
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css" />
   </head>
   <body>
 
-    <div class="container">
+    <div class="fluid-container">
       <%= partial("flash.html") %>
       <%= yield %>
     </div>
