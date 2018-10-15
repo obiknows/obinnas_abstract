@@ -2,9 +2,11 @@
 
 Thank you for choosing Buffalo for your web development needs.
 
+Current Version: `obiknows/obinnas_abstract:v1`
+
 TODO
 - [ ] change favicon
-- [ ] deploy to obi.obiknows.co
+- [x] deploy to obi.obiknows.co
 - [ ] check on web, and mobile
 - [ ] send in revised resumé with Lever application
 
