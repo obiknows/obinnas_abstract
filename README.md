@@ -6,7 +6,7 @@ TODO
 - [ ] change favicon
 - [ ] deploy to obi.obiknows.co
 - [ ] check on web, and mobile
-- [ ] send in revised Lever App
+- [ ] send in revised resumé with Lever application
 
 ## Starting the Application
 
