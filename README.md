@@ -2,7 +2,11 @@
 
 Thank you for choosing Buffalo for your web development needs.
 
-
+TODO
+- [ ] change favicon
+- [ ] deploy to obi.obiknows.co
+- [ ] check on web, and mobile
+- [ ] send in revised Lever App
 
 ## Starting the Application
 
