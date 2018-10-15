@@ -2,6 +2,8 @@
 
 Thank you for choosing Buffalo for your web development needs.
 
+
+
 ## Starting the Application
 
 Buffalo ships with a command that will watch your application and automatically rebuild the Go binary and any assets for you. To do that run the "buffalo dev" command:
